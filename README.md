@@ -1,5 +1,4 @@
 # Prework-Study-Guide-Webpage
-![Static Badge](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
 
